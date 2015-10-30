@@ -3,6 +3,7 @@ a change
 hello!
 hw r u?
 have a nice day!
+new change
 <<<<<<< HEAD
 hi!
 hello!
