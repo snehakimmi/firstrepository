@@ -4,6 +4,7 @@ hello!
 hw r u?
 have a nice day!
 <<<<<<< HEAD
+<<<<<<< HEAD
 new change
 <<<<<<< HEAD
 hi!
@@ -15,3 +16,7 @@ uhfjhkfh
 >>>>>>> parent of abac612... new
 =======
 >>>>>>> parent of abac612... new
+=======
+hi!
+hello!
+>>>>>>> parent of 4e10928... sneha choudhary
