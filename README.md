@@ -7,7 +7,6 @@ new change
 hi!
 hello!
 jhjh
-<<<<<<< HEAD
 sneha choudhary
 nhdhjbjbnkjkb
 uhfjhkfh
@@ -15,3 +14,4 @@ nvmjmh
 jhjhknkjjlj
 vngmhll
 
+test
