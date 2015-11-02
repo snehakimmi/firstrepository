@@ -12,5 +12,5 @@ JBCKJHC
 =======
 >>>>>>> 93a9c1e473d0786d5a672f6700c06d007baedc4a
 =======
-hi!
+hi, hello!
 >>>>>>> parent of be3573a... new new
